@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+
+
+body * {
+    margin: 10px;
+}
+body{
+    background-color: rgb(136, 122, 91);
+    margin:auto;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+header img {
+
+    width: 10%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+header nav {
+    float: right;
+    margin-top: 25px;
+    margin-right: 10px;
+    
+}
+
+main h2 {
+    text-align: center;
+}
+
+main img {
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+main table{
+
+    float: right;
+    border-collapse: collapse;
+    
+}
+
+table td{
+    border: 2px solid black;
+}
+
+table{
+    width: 20%;
+}
+
+main li{
+   
+    color: #661aa5;
+    
+}
+
+form * {
+width: 100%;
+}
+
+footer{
+    text-align: center;
+    background-color: cadetblue;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
